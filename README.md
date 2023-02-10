@@ -73,12 +73,9 @@ While building this project, I revised learning of these things.
 
 No. You need not to login/signup. You can directly proceed to check this.
 
-#### It is asking to provide some access. Is it safe to proceed ?
+#### On which platform, this project has been deployed ?
 
-Yeah. It is safe.
-<br>
-Don't Worry.<br>
-You can trust me.
+This project has been deployed on Vercel.
 
 
 
