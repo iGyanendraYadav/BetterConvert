@@ -1,9 +1,11 @@
 
-# BetterConvert
+# BetterConvert : Convert Your Text in Different Case
 
 Hi There, I have designed a text converter. You can input your text in textarea and click on the desired button to change text in desired case like Sentence case, lower case, UPPER CASE, Capitalize Case, Reverse Text etc.
 <br>
-Please, have a look once !
+You need to write some text in text area then only you can see the buttons enabled.
+<br>
+Please, have a look once!
 
 
 
@@ -18,7 +20,7 @@ Here is the GIF that shows how to use it.
 
 <br>
 
-And you can see live counting of characters, words and read time.
+And you can see live counting of characters, words and expected read time.
 
 <br>
 
